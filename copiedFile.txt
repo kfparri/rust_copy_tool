@@ -1,5 +1,0 @@
-This is just a sample file that I'm going to build in order for me to test the file copy part of my program.
-
-It has multiple lines in it just to make sure it works correctly.
-
-Kyle
