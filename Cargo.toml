@@ -1,5 +1,5 @@
 [package]
-name = "file_copy_tool"
+name = "rusty_copy"
 version = "0.1.0"
 authors = ["Kyle Parrish <kfparri@gmail.com>"]
 
