@@ -22,6 +22,7 @@ fn main() {
     //  if there are not exactly one argument (one plus the program), exit the program.
     if args.len() != 2  {
         // print program usage
+
         println!("Usage: file_copy_tool <Copy Folder Path>");
         
         // exit the program
